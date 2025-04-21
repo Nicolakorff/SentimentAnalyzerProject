@@ -8,18 +8,18 @@ This project is a web application that allows users to enter text and detect its
 
 ## Project Structure
 
-├── app.py # Main logic of the Flask application
-├── EmotionDetection/
-│ ├── init.py # Initializes the directory as a Python package
-│ └── emotion_detection.py # Contains the function to perform sentiment analysis with VADER
-├── requirements.txt # List of Python dependencies
-├── static/
-│ └── mywebscript.js # JavaScript code for interaction with the frontend
-└── templates/
-└── index.html # Web application user interface
-├── render.yaml # Configuration for deployment to Render
-└── README.md # This file
-└── test_emotion_detection.py # Unit tests for the sentiment detection feature
+- app.py # Main logic of the Flask application
+- EmotionDetection/
+  - init.py # Initializes the directory as a Python package
+  - emotion_detection.py # Contains the function to perform sentiment analysis with VADER
+- requirements.txt # List of Python dependencies
+- static/
+  - mywebscript.js # JavaScript code for interaction with the frontend
+- templates/
+  - index.html # Web application user interface
+- render.yaml # Configuration for deployment to Render
+- README.md # This file
+- test_emotion_detection.py # Unit tests for the sentiment detection feature
 
 ## How It Works
 
