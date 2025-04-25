@@ -15,25 +15,25 @@ This project is a sentiment analyzer that uses a Flask API to determine the emot
 ## How to Use
 
 1. Clone the repository:
-'''bash
+```bash
 git clone <REPOSITORY_URL>
 cd SentimentAnalyzerProject
-'''
+```
 3. Create a virtual environment (recommended):
-'''bash
+```bash
 python -m venv venv
 source venv/bin/activate # On Linux/macOS
 venv\Scripts\activate # On Windows
-'''
+```
 5. Install dependencies:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 7. Run the Flask application locally:
-'''bash
+```bash
 python app.py
 This will start the Flask server at http://127.0.0.1:5000/.
-'''
+```
 5. **Open the web interface:** Go to `http://127.0.0.1:5000/` in your web browser.
 9. **Enter the text to analyze:** In the text box provided, type the phrase or text whose sentiment you want to analyze.
 10. **Run the analysis:** Click the "Run Sentiment Analysis" button.
