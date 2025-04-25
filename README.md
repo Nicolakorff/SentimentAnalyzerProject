@@ -16,7 +16,7 @@ This project is a sentiment analyzer that uses a Flask API to determine the emot
 
 1. Clone the repository:
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/Nicolakorff/SentimentAnalyzerProject
 cd SentimentAnalyzerProject
 ```
 3. Create a virtual environment (recommended):
