@@ -1,6 +1,6 @@
 # SentimentAnalyzerProject
 
-**Try it!!** -> https://sentimentanalyzerproject.onrender.com
+**Try it!!** -> [Text Sentiment Analyzer](https://sentimentanalyzerproject.onrender.com)
 
 This project is a sentiment analyzer that uses a Flask API to determine the emotional polarity of text entered by the user through a web interface. It uses the `vaderSentiment` library to classify sentiment as positive, negative, or neutral.
 
@@ -67,5 +67,14 @@ This will run the tests defined in `test_emotion_detection.py` to verify the fun
 ## Contributions
 
 Contributions to this project are welcome. If you have ideas for improving the app or have found a bug, please feel free to open an issue or submit a pull request.
+
+## Author
+
+Nicola Korff [My Github](https://github.com/Nicolakorff/)
+
+## License
+
+MIT License
+
 
 <img width="799" alt="Captura de pantalla 2025-04-21 a las 23 00 40" src="https://github.com/user-attachments/assets/b2fa5346-d9e6-4549-806e-1fad97cbf7f7" />
